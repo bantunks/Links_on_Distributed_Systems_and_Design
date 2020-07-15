@@ -18,6 +18,8 @@ educative.io's "Grokking the System Design Interview" has a chapter dedicated to
 Articles from Rubrik's Blog --
 https://www.rubrik.com/blog/introducing-atlas-rubriks-cloud-scale-file-system/
 
+CQRS pattern --
 Very good link on CQRS pattern(separate read and write data models and keep them in sync using Event Sourcing pattern)
 https://docs.microsoft.com/en-us/azure/architecture/patterns/cqrs
 Read all the other patterns, very important
+https://martinfowler.com/bliki/CQRS.html --> references a lot of other patterns at the end
