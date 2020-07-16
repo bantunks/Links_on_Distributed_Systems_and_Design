@@ -23,3 +23,5 @@ Very good link on CQRS pattern(separate read and write data models and keep them
 https://docs.microsoft.com/en-us/azure/architecture/patterns/cqrs
 Read all the other patterns, very important
 https://martinfowler.com/bliki/CQRS.html --> references a lot of other patterns at the end
+http://codebetter.com/gregyoung/2010/02/16/cqrs-task-based-uis-event-sourcing-agh/ -- perhaps the best of all
+http://udidahan.com/2009/12/09/clarified-cqrs/
