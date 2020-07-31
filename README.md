@@ -25,3 +25,7 @@ Read all the other patterns, very important
 https://martinfowler.com/bliki/CQRS.html --> references a lot of other patterns at the end
 http://codebetter.com/gregyoung/2010/02/16/cqrs-task-based-uis-event-sourcing-agh/ -- perhaps the best of all
 http://udidahan.com/2009/12/09/clarified-cqrs/
+
+2020-07-31 --
+[RR] https://kislayverma.com/programming/design-review-checklist-for-distributed-systems/
+Very good description of basic design guidelines that should be followed when designing a large distributed system. 
