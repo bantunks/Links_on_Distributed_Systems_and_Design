@@ -29,3 +29,7 @@ http://udidahan.com/2009/12/09/clarified-cqrs/
 2020-07-31 --
 [RR] https://kislayverma.com/programming/design-review-checklist-for-distributed-systems/
 Very good description of basic design guidelines that should be followed when designing a large distributed system. 
+
+2020-08-01
+Very short and simple introduction to API Gateways (just a description and their multiple purposes) -- 
+https://www.redhat.com/en/topics/api/what-does-an-api-gateway-do
