@@ -33,3 +33,8 @@ Very good description of basic design guidelines that should be followed when de
 2020-08-01
 Very short and simple introduction to API Gateways (just a description and their multiple purposes) -- 
 https://www.redhat.com/en/topics/api/what-does-an-api-gateway-do
+
+2020-08-12
+[MUST_READ]
+This is the best short introduction to the problem of database replication (author chose to call synchronization) and the solutions (including use of consensus protocols)
+https://www.alibabacloud.com/blog/strategies-for-effective-database-synchronization_152131?spm=a2c65.11461447.0.0.42576a34ztIwC6
