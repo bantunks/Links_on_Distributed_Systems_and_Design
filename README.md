@@ -38,3 +38,12 @@ https://www.redhat.com/en/topics/api/what-does-an-api-gateway-do
 [MUST_READ]
 This is the best short introduction to the problem of database replication (author chose to call synchronization) and the solutions (including use of consensus protocols)
 https://www.alibabacloud.com/blog/strategies-for-effective-database-synchronization_152131?spm=a2c65.11461447.0.0.42576a34ztIwC6
+
+2021-03-04
+Design of P2P File Transfer Networks --
+
+Peer-to-Peer Networks for Content Sharing
+http://cloudbus.org/papers/P2PbasedContentSharing.pdf
+
+Design and Implementation of a Peer-to-Peer based System to enable the Share Functionality in a Platform-independent Cloud Storage Overlay
+https://www.merlin.uzh.ch/contributionDocument/download/4930
