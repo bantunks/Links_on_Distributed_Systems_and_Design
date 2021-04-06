@@ -47,3 +47,6 @@ http://cloudbus.org/papers/P2PbasedContentSharing.pdf
 
 Design and Implementation of a Peer-to-Peer based System to enable the Share Functionality in a Platform-independent Cloud Storage Overlay
 https://www.merlin.uzh.ch/contributionDocument/download/4930
+
+Very Good Introduction to API Gateway --
+https://nordicapis.com/what-is-an-api-gateway/
