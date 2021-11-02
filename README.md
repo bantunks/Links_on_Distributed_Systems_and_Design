@@ -1,4 +1,8 @@
 # Links_on_Distributed_Systems_and_Design
+
+Distributed consensus made simple (for real this time!)
+https://decentralizedthoughts.github.io/2021-09-30-distributed-consensus-made-simple-for-real-this-time/
+
 List of must reads on Distributed Systems and Design
 How Web Browsers work -- https://github.com/vasanthk/how-web-works
 
